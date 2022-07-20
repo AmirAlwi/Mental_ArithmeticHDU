@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Mon Jul 18 12:26:05 2022
+# Process ID: 14752
+# Current directory: E:/Dev/FPGAs/project_333/project_333.runs/synth_1
+# Command line: vivado.exe -log top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source top.tcl
+# Log file: E:/Dev/FPGAs/project_333/project_333.runs/synth_1/top.vds
+# Journal file: E:/Dev/FPGAs/project_333/project_333.runs/synth_1\vivado.jou
+# Running On: Nightingale, OS: Windows, CPU Frequency: 3793 MHz, CPU Physical cores: 12, Host memory: 17111 MB
+#-----------------------------------------------------------
+source top.tcl -notrace
